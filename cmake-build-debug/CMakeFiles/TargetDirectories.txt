@@ -1,0 +1,3 @@
+C:/Users/ALDAS/CLionProjects/par o impar bucle while/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ALDAS/CLionProjects/par o impar bucle while/cmake-build-debug/CMakeFiles/par_o_impar_bucle_while.dir
+C:/Users/ALDAS/CLionProjects/par o impar bucle while/cmake-build-debug/CMakeFiles/rebuild_cache.dir
